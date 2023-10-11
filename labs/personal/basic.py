@@ -35,14 +35,4 @@
 #age = int(input("Enter your age: "))
 #height = float(input("Enter your height in cm: "))
 
-#function related to numbers
-#rounding off a numerical value 
-import math
-n = 4.56
-print(round(n))
-
-#rounding mathematical value
-#print(round(int))
-
-#rounding mathematical value up
 

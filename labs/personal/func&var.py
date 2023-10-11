@@ -7,10 +7,7 @@
 
 #capitalize all first initials
 #string.title()
-name = input("Enter your name: ")
-name = name.title()
-first_name = name[:6]
-print (first_name)
+
 #first initial of every word capitalize and remove the spaces "whitemarks"
 #name=input('Enter your name: ').strip().title()
 

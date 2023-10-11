@@ -2,9 +2,6 @@
 #import math
 #a = 23.68
 #print(round(a))
-import math 
-n = 3.1
-print(math.ceil(n))
 
 #rounding a number to a higher value 
 #import math
